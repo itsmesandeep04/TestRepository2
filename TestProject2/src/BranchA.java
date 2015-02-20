@@ -11,4 +11,5 @@ public class BranchA {
 		BranchA = branchA;
 	}
 	
+	String BranchA1;
 }
