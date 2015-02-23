@@ -29,4 +29,15 @@ public class BranchA {
 	public void setBranchB1(String branchB1) {
 		BranchB1 = branchB1;
 	}
+	
+	String B2;
+
+	public String getB2() {
+		return B2;
+	}
+
+	public void setB2(String b2) {
+		B2 = b2;
+	}
+	
 }
