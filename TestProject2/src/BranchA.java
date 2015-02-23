@@ -20,4 +20,18 @@ public class BranchA {
 	public void setBranchA1(String branchA1) {
 		BranchA1 = branchA1;
 	}
+	
+	String A2;
+
+	public String getA2() {
+		return A2;
+	}
+
+	public void setA2(String a2) {
+		A2 = a2;
+	}
+	
+	
+	
+	
 }
