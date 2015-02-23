@@ -12,6 +12,7 @@ public class BranchA {
 	}
 	
 	String BranchA1;
+
 	public String getBranchA1() {
 		return BranchA1;
 	}
