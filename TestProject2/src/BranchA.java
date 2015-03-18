@@ -32,6 +32,16 @@ public class BranchA {
 	}
 	
 	
+	private String varA;
+
+	public String getVarA() {
+		return varA;
+	}
+
+	public void setVarA(String varA) {
+		this.varA = varA;
+	}
+	
 	
 	
 }
