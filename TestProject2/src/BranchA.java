@@ -20,37 +20,29 @@ public class BranchA {
 	public void setBranchA1(String branchA1) {
 		BranchA1 = branchA1;
 	}
-
-	String BranchB1;
-
-	public String getBranchB1() {
-		return BranchB1;
-	}
-
-	public void setBranchB1(String branchB1) {
-		BranchB1 = branchB1;
-	}
 	
-	String B2;
+	String A2;
 
-	public String getB2() {
-		return B2;
+	public String getA2() {
+		return A2;
 	}
 
-	public void setB2(String b2) {
-		B2 = b2;
+	public void setA2(String a2) {
+		A2 = a2;
 	}
 	
 	
-	private String varB;
 
-	public String getVarB() {
-		return varB;
+	private String varA;
+
+	public String getVarA() {
+		return varA;
 	}
 
-	public void setVarB(String varB) {
-		this.varB = varB;
+	public void setVarA(String varA) {
+		this.varA = varA;
 	}
+	
 	
 	
 }
