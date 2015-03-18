@@ -41,4 +41,16 @@ public class BranchA {
 		B2 = b2;
 	}
 	
+	
+	private String varB;
+
+	public String getVarB() {
+		return varB;
+	}
+
+	public void setVarB(String varB) {
+		this.varB = varB;
+	}
+	
+	
 }
