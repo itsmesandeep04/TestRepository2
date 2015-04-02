@@ -43,6 +43,15 @@ public class BranchA {
 		this.varA = varA;
 	}
 	
+	private String B3;
+
+	public String getB3() {
+		return B3;
+	}
+
+	public void setB3(String b3) {
+		B3 = b3;
+	}
 	
 	
 }
