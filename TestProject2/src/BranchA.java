@@ -33,7 +33,7 @@ public class BranchA {
 	
 	
 
-	private String varA;
+	private String varA,b1,b2,b3,b4;
 
 	public String getVarA() {
 		return varA;
