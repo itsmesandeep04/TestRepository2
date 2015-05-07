@@ -63,6 +63,5 @@ public class BranchA {
 		B4 = b4;
 	}
 	
-	private String s1,s2,s3;
-	
+	private String z1,z2,z3;	
 }
