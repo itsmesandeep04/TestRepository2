@@ -12,7 +12,7 @@ public class BranchA {
 	}
 	
 	String BranchA1;
-
+	private String p1,p2,p3;
 	public String getBranchA1() {
 		return BranchA1;
 	}
@@ -62,5 +62,7 @@ public class BranchA {
 	public void setB4(String b4) {
 		B4 = b4;
 	}
+	
+	private String s1,s2,s3;
 	
 }
